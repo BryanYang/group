@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "private": true,
+  "name": "pic100",
+  "description": "a tool to group your folder",
+  "repository": "",
+  "license": "MIT",
+  "author":"bryan yang",
+  "email":"yangggao@hotmail.com",
+  "devDependencies": {
+    "async": "^1.0.0",
+  },
+  "scripts": {
+  }
+}
